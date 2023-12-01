@@ -1,0 +1,15 @@
+.form{
+    border: .1cm solid black;
+    width: max-content 8cm;
+    width: min-content 5cm;
+    padding: 10px;
+    background-color: lightblue;
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    
+}
