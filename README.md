@@ -17,7 +17,7 @@ Ensure that your system has:
    git clone https://github.com/yourusername/blogingwebsite.git
 Navigate to the Vite.js project directory:
 
-bash
+```bash
 cd blogingwebsite/vite-project
 Install Vite.js dependencies:
 
