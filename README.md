@@ -13,7 +13,7 @@ Ensure that your system has:
 ## Setup Instructions
 
 1. **Clone the Git project:**
-   ```bash
+   ``bash
    git clone https://github.com/yourusername/blogingwebsite.git
 Navigate to the Vite.js project directory:
 
