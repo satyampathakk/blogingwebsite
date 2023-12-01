@@ -17,24 +17,24 @@ Ensure that your system has:
    git clone https://github.com/yourusername/blogingwebsite.git
 Navigate to the Vite.js project directory:
 
-```bash
+bash
 cd blogingwebsite/vite-project
 Install Vite.js dependencies:
 
-```bash
+bash
 npm install
 Navigate to the Django project directory:
 
-```bash
+bash
 cd ../com
 Install Django:
 
-``bash
+bash
 pip install django
 
 Install Django Rest Framework:
 
-```bash
+bash
 pip install djangorestframework
 Run the Django server:
 
@@ -42,11 +42,11 @@ bash
 python manage.py runserver
 Open a new terminal window, navigate to the Vite.js project directory:
 
-``bash
+bash
 cd ../vite-project
 Run the Vite.js development server:
 
-```bash
+bash
 npm run dev
 Access the Website
 
