@@ -45,5 +45,5 @@ Access the Website
 Once both servers are running, access the blogging website at:
 
 Django backend: http://localhost:8000
-Vite.js frontend: http://localhost:3000
+Vite.js frontend: http://localhost:5173
 Ensure you follow the correct order of steps, and you are in the right directory when executing each set of commands. Also, make sure to set up your Django project and database according to the project's requirements.
