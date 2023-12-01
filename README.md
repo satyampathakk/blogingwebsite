@@ -20,8 +20,9 @@ Navigate to the Vite.js project directory:
 ```bash
 cd blogingwebsite/vite-project
 Install Vite.js dependencies:
-
 npm install
+
+For running Django server follow below
 Navigate to the Django project directory:
 cd ../com
 Install Django:
