@@ -14,7 +14,7 @@ Ensure that your system has:
 
 1. **Clone the Git project:**
    ``````bash
-   git clone https://github.com/yourusername/blogingwebsite.git
+   git clone https://github.com/satyampathakk/blogingwebsite.git
 Navigate to the Vite.js project directory:
 
 ```bash
